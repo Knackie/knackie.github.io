@@ -23,7 +23,7 @@ email: jaht_1999@hotmail.com
 github_username: alfonsotopetes
 #codepen_username: exampUser
 #dev_username: exampleUser
-linkedin_username: https://www.linkedin.com/jesus-alfonso-hernandez-topetes
+linkedin_username: jesus-alfonso-hernandez-topetes
 #twitter_username: exampleUser
 
 # ABOUT ME SECTION
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.doyoubuzz.com/jesus-alfonso-hernandez-topetes
+cv_download_link:
 
 # PROJECTS SECTION
 # show_projects_card:
