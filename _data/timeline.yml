@@ -22,10 +22,10 @@
   date: Ago 2017 - Presente
   subtitle: Lic. Seguridad en Tecnologías de Información
   tags:
-    - tag: Ciberseguridad
-    - tag: Redes
-    - tag: Programación
-    - tag: Tecnología
+#    - tag: Ciberseguridad
+#    - tag: Redes
+#    - tag: Programación
+#    - tag: Tecnología
   timeline-side: right
 
 - title: Grupo AlEn
@@ -33,8 +33,8 @@
   date: Sep 2021 - Presente
   subtitle: Practicante de Auditoría Interna de TI
   tags:
-    - tag: Auditor
-    - tag: Tecnologías de Información
+#    - tag: Auditor
+#    - tag: Tecnologías de Información
   timeline-side: left
 
 #- title: Super University
