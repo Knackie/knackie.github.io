@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Univesidad Autónoma de Nuevo León
-  title-url: https://www.uanl.mx
-  date: Ago 2017 - Presente
-  subtitle: Lic. Seguridad en Tecnologías de Información
+- title: Charles de Foucauld
+# title-url: https://telecomnancy.univ-lorraine.fr/
+  date: 09/2016 - 09/2018
+  subtitle: HND in Development
   tags:
 #    - tag: Ciberseguridad
 #    - tag: Redes
@@ -28,31 +28,49 @@
 #    - tag: Tecnología
   timeline-side: right
 
-- title: Grupo AlEn
-  title-url: https://www.grupoalen.com/es/
-  date: Sep 2021 - Presente
-  subtitle: Practicante de Auditoría Interna de TI
+- title: TELECOM Nancy
+  title-url: https://telecomnancy.univ-lorraine.fr/
+  date: 09/2018 - 09/2021
+  subtitle: Digital Engineering Degree
   tags:
-#    - tag: Auditor
-#    - tag: Tecnologías de Información
+#    - tag: Ciberseguridad
+#    - tag: Redes
+#    - tag: Programación
+#    - tag: Tecnología
+  timeline-side: right
+  
+  - title: LMI Solutions
+  title-url: https://www.lmisolutions.fr/
+  date: 09/2018 - 09/2021
+  subtitle: Apprentice Engineer
+  tags:
+#    - tag: Ciberseguridad
+#    - tag: Redes
+#    - tag: Programación
+#    - tag: Tecnología
   timeline-side: left
-
-#- title: Super University
-#  title-url: https://example.com/
-#  date: 2017 - 2019
-#  subtitle: M.Sc. Computer Science
-#  timeline-side: left
-
-#- title: Facebook
-#  title-url: https://example.com/
-#  date: Sep 2017 - Mar 2019
-#  subtitle: Front-End Developer as Intern
-#  tags:
-#    - tag: React
-#    - tag: Node
-#    - tag: Javascript
-#  timeline-side: right
-
+  
+- title: Groupe SII
+  title-url: https://sii-group.com/
+  date: 09/2021 - Present
+  subtitle: Software Engineer
+  tags:
+#    - tag: Ciberseguridad
+#    - tag: Redes
+#    - tag: Programación
+#    - tag: Tecnología
+  timeline-side: left
+  
+- title: MBDA
+  title-url: https://www.mbda-systems.com/
+  date: 09/2021 - Present
+  subtitle: Subcontracting Software Engineer
+  tags:
+#    - tag: Ciberseguridad
+#    - tag: Redes
+#    - tag: Programación
+#    - tag: Tecnología
+  timeline-side: right
 #- title: Super University
 #  title-url: https://example.com/
 #  date: 2014 - 2017
