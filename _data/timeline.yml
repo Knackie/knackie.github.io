@@ -18,10 +18,14 @@
 #   timeline-side: right
 
 - title: Charles de Foucauld
- title-url: http://www.lycee-charlesdefoucauld.fr/
+  title-url: http://www.lycee-charlesdefoucauld.fr/
   date: 09/2016 - 09/2018
   subtitle: HND in Development
   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
   timeline-side: right
 
 - title: TELECOM Nancy
