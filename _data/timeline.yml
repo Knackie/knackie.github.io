@@ -22,10 +22,6 @@
   date: 09/2016 - 09/2018
   subtitle: HND in Development
   tags:
-#    - tag: Ciberseguridad
-#    - tag: Redes
-#    - tag: Programación
-#    - tag: Tecnología
   timeline-side: right
 
 - title: TELECOM Nancy
@@ -33,46 +29,22 @@
   date: 09/2018 - 09/2021
   subtitle: Digital Engineering Degree
   tags:
-#    - tag: Ciberseguridad
-#    - tag: Redes
-#    - tag: Programación
-#    - tag: Tecnología
   timeline-side: right
   
   - title: LMI Solutions
   title-url: https://www.lmisolutions.fr/
   date: 09/2018 - 09/2021
   subtitle: Apprentice Engineer
-  tags:
-#    - tag: Ciberseguridad
-#    - tag: Redes
-#    - tag: Programación
-#    - tag: Tecnología
   timeline-side: left
   
 - title: Groupe SII
   title-url: https://sii-group.com/
   date: 09/2021 - Present
   subtitle: Software Engineer
-  tags:
-#    - tag: Ciberseguridad
-#    - tag: Redes
-#    - tag: Programación
-#    - tag: Tecnología
   timeline-side: left
   
 - title: MBDA
   title-url: https://www.mbda-systems.com/
   date: 09/2021 - Present
   subtitle: Subcontracting Software Engineer
-  tags:
-#    - tag: Ciberseguridad
-#    - tag: Redes
-#    - tag: Programación
-#    - tag: Tecnología
-  timeline-side: right
-#- title: Super University
-#  title-url: https://example.com/
-#  date: 2014 - 2017
-#  subtitle: B.A. Computer Science
-#  timeline-side: left
+
