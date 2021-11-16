@@ -116,6 +116,11 @@ projects:
     - Application_ios
     - anglais
     - android
+    - windows_setr
+    - scala
+    - print_3d
+    - Odoo
+    - Ncovid-19
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
