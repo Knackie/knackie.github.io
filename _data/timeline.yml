@@ -43,8 +43,14 @@
   
 - title: Groupe SII
   title-url: https://sii-group.com/
-  date: 09/2021 - Present
+  date: 09/2021 - 09/2024
   subtitle: Software Engineer
+  timeline-side: left
+  
+- title: Groupe SII
+  title-url: https://sii-group.com/
+  date: 09/2024 - Present
+  subtitle: Team Leader
   timeline-side: left
   
 - title: MBDA
