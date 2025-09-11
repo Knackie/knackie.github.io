@@ -49,12 +49,18 @@
   
 - title: Groupe SII
   title-url: https://sii-group.com/
-  date: 09/2024 - Present
+  date: 09/2024 - 09/2025
   subtitle: Team Leader
   timeline-side: left
   
 - title: MBDA
   title-url: https://www.mbda-systems.com/
-  date: 09/2021 - Present
+  date: 09/2021 - 09/2025
   subtitle: Subcontracting Software Engineer
   timeline-side: right
+
+- title: Centre Psychothérapique de Nancy
+  title-url: https://www.cpn-laxou.com/
+  date: 09/2025 - Present
+  subtitle: Project Manager and Application Maintenance
+  timeline-side: left  
