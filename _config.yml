@@ -14,7 +14,7 @@ baseurl: ""
 username: Mathieu Dreyer
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: IT Team Leader | Software & Network Engineering
+typing_text: IT Team Leader - Software & Network Engineering
 # email: Your E-Mail address for the email button.
 email: mathieudreyer1@gmail.com
 # For every social button you want to display, set your username or userid
@@ -35,6 +35,7 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: I’m an IT Team Leader with a background in software development and network engineering. Graduated from TELECOM Nancy with a BTS SN-IR, I gained hands-on experience through a 3-year work-study program at LMI Solutions.Currently working at the Centre Psychothérapique de Nancy (CPN), I lead technical projects and contribute to IT infrastructure, application support, and system optimization in a healthcare environment. My core skills include C++, web applications, and network security.
+
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
