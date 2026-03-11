@@ -14,7 +14,7 @@ baseurl: ""
 username: Mathieu Dreyer
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Team leader IT
+typing_text: IT Team Leader | Software & Network Engineering
 # email: Your E-Mail address for the email button.
 email: mathieudreyer1@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,8 +34,13 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a Team Leader with a background in software development and network engineering, passionate about team management, technical problem-solving, and process optimization. Graduated from TELECOM Nancy with a BTS SN-IR, I gained hands-on experience during my 3-year work-study program at LMI Solutions, where I developed expertise in network management, software development, and IT services. This experience strengthened my adaptability and problem-solving skills, particularly in high-stakes situations such as network failures at client sites. Currently, I am working as a Team Leader at Groupe SII, an IT service company, where I am a consultant for MBDA. My focus is on leading teams, optimizing workflows, and ensuring smooth project execution while maintaining a strong technical foundation in C++ development, web applications, and network security.
+about_me_description: I’m an IT Team Leader with a background in software development and network engineering.
 
+Graduated from TELECOM Nancy with a BTS SN-IR, I gained hands-on experience through a 3-year work-study program at LMI Solutions.
+
+Currently working at the Centre Psychothérapique de Nancy (CPN), I lead technical projects and contribute to IT infrastructure, application support, and system optimization in a healthcare environment.
+
+My core skills include C++, web applications, and network security.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
